@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+/* Add application styles & imports to this file! */
+
+
+.title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #405065;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 49px;
+  }
+  .customBox {
+    margin-top: 5%;
+    padding: 8px 100px;
+    box-shadow: 0 10px 40px 0 #B0C1D9;
+  }
+  
+  .alignleft {
+    float: left;
+  }
+  
+  .alignright {
+    float: right;
+  }
+  
+  .connectingConnectorLabel {
+      height: 23px;
+      width: 110px;
+      border-radius: 13px;
+      color: #FFFFFF;
+      text-align: center;
+      z-index:3 !important;
+      left: 50% !important;
+      background-color: #456;
+  }
+  
